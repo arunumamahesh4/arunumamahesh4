@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arunumamahesh4@gmail.com**
 
-- ⚡ Fun fact **Always be funny**
+- ⚡ Fun fact : My coding skills looks better than my looks😁😜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
