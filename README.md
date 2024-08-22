@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunumamahesh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunumamahesh3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umamahesh-uppari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umamahesh-uppari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umamahesh-uppari-a1155a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umamahesh-uppari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/arun-umamahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun umamahesh" height="30" width="40" /></a>
 <a href="https://fb.com/arunumamahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunumamahesh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_wanderlust41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_wandelust41" height="30" width="40" /></a>
