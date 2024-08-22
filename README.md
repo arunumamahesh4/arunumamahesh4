@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/21674909/arun-umamahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun umamahesh" height="30" width="40" /></a>
 <a href="https://fb.com/arunumamahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunumamahesh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_wanderlust41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_wandelust41" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/arunumamahesh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="arunumamahesh4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/arunumamahesh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="arunumamahesh4" height="30" width="40" /></a>
 <a href="https://discord.gg/arun41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arun41" height="30" width="40" /></a>
 </p>
 
